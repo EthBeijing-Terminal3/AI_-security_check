@@ -28,12 +28,14 @@ Ponzi Scheme in Ethereum has obvious patterns when created and used. We try to u
       - composition features
       - how to handle imbalanced data
     - methods
+      - LLMs (GPT3.5)
       - Random Forest
       - xgboost
       - NLP NN
     - Result
       - Importance of features  
       - Validation score
+      
 
 
 ## Acknowledgement
