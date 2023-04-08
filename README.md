@@ -1,4 +1,4 @@
-# Ponzi Scheme Detector and Predictor on Ethereum via ChatGPT
+# Contract Security Check on Ethereum via ChatGPT
 ## Motivation
 Ponzi Scheme in Ethereum has obvious patterns when created and used. We try to ultilize machine learning methods to detect the ponzi contract and predict the price change.
 
